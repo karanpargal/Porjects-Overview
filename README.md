@@ -2,7 +2,7 @@
 
 Here are all my projects which I have done in web3 space.
 
-<!-- <h3><u><strong><i>DAOcom</i></strong></u> &nbsp;(EVM)</h3>
+ <h3><u><strong><i>DAOcom</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
 Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain payments, and build your proof of work. Empower your contributors and unlock your DAO's potential today!
@@ -10,7 +10,7 @@ Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain pay
 - Original Link: <a href="https://github.com/karanpargal/DAOcom" target="_blank">DAOCom<a/>
 
 
-<!-- <h3><u><strong><i>DogeCapital Raffles</i></strong></u> &nbsp;(Solana)</h3>
+ <h3><u><strong><i>DogeCapital Raffles</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
 Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain payments, and build your proof of work. Empower your contributors and unlock your DAO's potential today!

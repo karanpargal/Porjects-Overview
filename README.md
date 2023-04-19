@@ -11,8 +11,8 @@ Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain pay
 - Original Link: <a href="https://github.com/karanpargal/DAOcom" target="_blank">DAOCom<a/>
 - Video Link: <a href="https://youtu.be/4Ppv-Ozw4U0" target="_blank">Video<a/>
 
- <hr /><hr />
- <hr />
+ <br /><br />
+ <br /><br />
  <h3><u><strong><i>DogeCapital Raffles</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
  <img align="right" height = "250px" src="https://assets.devfolio.co/hackathons/83f000a4a1f748309754612ba5498061/projects/075757f5fe43481eadefc87cf6576486/9633d813-f3b3-4faf-89fd-a0ac26eda995.jpeg" >

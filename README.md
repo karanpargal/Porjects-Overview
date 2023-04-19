@@ -13,6 +13,7 @@ Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain pay
 
  <br /><br />
  <br /><br />
+ <br />
  <h3><u><strong><i>DogeCapital Raffles</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
  <img align="right" height = "250px" src="https://media.licdn.com/dms/image/D4D22AQHTNUVG-7MwWQ/feedshare-shrink_800/0/1681793039544?e=1684972800&v=beta&t=ke4DyzmpL_JN4CCh7JDCZD0-nsWJ7UpCWkYOsLVVc2g" >
@@ -22,6 +23,9 @@ A raffle platform for your NFTs!!
 - Original Link: <a href="https://www.kenl.live/raffles" target="_blank">Kenl<a/>
  <br /><br />
  <br /><br />
+  <br /><br />
+ <br /><br />
+ <br />
  
 <h3><u><strong><i>Paysal</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
@@ -32,6 +36,8 @@ A blockchain-powered solution for organization management that includes paying s
 - Original Link: <a href="https://github.com/karanpargal/paysal" target="_blank">Paysal<a/>
  <br /><br />
  <br /><br />
+ <br /><br />
+ <br />
  <h3><u><strong><i>Sigma Start</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
 
@@ -40,7 +46,6 @@ Use SigmaStart to kickstart your projects and ideas and bring them to life where
 - Original Link: <a href="https://github.com/Srivastava57Harsh/SigmaStart" target="_blank">Sigma Start<a/>
 - Video Link: <a href="https://youtu.be/Z4MPpZc97qY" target="_blank">Video<a/>
  
- <br /><br />
  <br /><br />
  <h3><u><strong><i>NFT Marketplace</i></strong></u> &nbsp;(EVM)</h3>
 <hr />

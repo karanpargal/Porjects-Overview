@@ -4,6 +4,7 @@ Here are all my projects which I have done in web3 space in chronological order.
 
  <h3><u><strong><i>DAOcom</i></strong></u> &nbsp;(EVM)</h3>
 <hr />
+<img align="right" height = "250px" src="https://assets.devfolio.co/hackathons/83f000a4a1f748309754612ba5498061/projects/075757f5fe43481eadefc87cf6576486/9633d813-f3b3-4faf-89fd-a0ac26eda995.jpeg" >
 
 Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain payments, and build your proof of work. Empower your contributors and unlock your DAO's potential today!
 

@@ -1,6 +1,6 @@
 # Web3 Projects: (EVM / Solana)
 
-Here are all my projects which I have done in web3 space.
+Here are all my projects which I have done in web3 space in chronological order.
 
  <h3><u><strong><i>DAOcom</i></strong></u> &nbsp;(EVM)</h3>
 <hr />

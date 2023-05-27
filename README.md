@@ -16,7 +16,7 @@ Elevate your DAO with our platform's bounties, jobs, and grants, cross-chain pay
  <br />
  <h3><u><strong><i>DogeCapital Raffles</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
- <img align="right" height = "250px" src="https://media.licdn.com/dms/image/D4D22AQHTNUVG-7MwWQ/feedshare-shrink_800/0/1681793039544?e=1684972800&v=beta&t=ke4DyzmpL_JN4CCh7JDCZD0-nsWJ7UpCWkYOsLVVc2g" >
+ <img align="right" height = "250px" src="https://pbs.twimg.com/media/FtlyBshWAAIp0p2.png" >
 
 A platfortm where you can create raffle for your NFTs and take part in raffles that are going on to get NFTs. It supports all solana based NFTs.
 
